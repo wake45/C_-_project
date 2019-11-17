@@ -1,0 +1,11 @@
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\bin\Debug\project.exe.config
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\bin\Debug\project.exe
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\bin\Debug\project.pdb
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\obj\Debug\project.Form1.resources
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\obj\Debug\project.exe
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\obj\Debug\project.pdb
+C:\Users\LEE\Desktop\20145150 이상욱 window programming project\project\project\obj\Debug\project.Form2.resources
